@@ -1,2 +1,27 @@
 # TuneClause
-TuneClause is a Music Player application developed using Tkinter and Pygame libraries in Python. The main purpose of this application is to provide users with a simple and intuitive interface for playing, pausing, stopping, and controlling the volume of music files from their local file system.
+TuneClause is a Music Player application developed using Tkinter and Pygame libraries in Python. The primary objective of this application is to offer a user-friendly interface for playing music.
+
+## Features
+* Open file to select music
+* Play, pause, and stop music
+* Volume control
+* Animations
+
+## Usage
+1. Download the `app.py` file.
+2. Open the file with a python IDE.
+3. Run the file.
+4. Select your music.
+5. Play, pause, and stop the music.
+6. Adjust the volume.
+
+## Requirements
+* Python 3.09
+* Tkinter
+* PIL
+* OS
+* Time
+* Tkinter.messagebox
+* Filedialog
+* Pygame
+* Mutagen
